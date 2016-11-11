@@ -21,3 +21,7 @@ Start building capacitive screen and protype connection between conductive fabri
 Finish building capacitive screen and test connection to processing with different color options etc.
 #### Week 4
 User Testing and refinement
+
+## References and Links
+- https://learn.adafruit.com/plush-game-controller/stitch-circuit?view=all
+- https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing
